@@ -230,6 +230,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621674502c2627c068e73ada.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2" tvg-id="608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" , Funny Or Die, Inc.
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c6843b964c65b53de32e" tvg-id="608049aefa2b8ae93c2c3a63-6196c6843b964c65b53de32e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5771df94-b224-4195-9929-dd00bf99fbef/gogo_logo.png" , GAGO TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c6843b964c65b53de32e.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5fc6f3a92b6f7b002e77ffad" tvg-id="608049aefa2b8ae93c2c3a63-5fc6f3a92b6f7b002e77ffad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gfntv_logo_dark.png" , GFN TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fc6f3a92b6f7b002e77ffad.m3u8
 
