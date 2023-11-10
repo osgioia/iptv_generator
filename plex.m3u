@@ -194,7 +194,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2" tvg-id="608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" , FUEL TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e" tvg-id="608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/FailArmy_logo_dark_v2.png" , FailArmy
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e" tvg-id="608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" , FailArmy
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a" tvg-id="608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f5c7ee72e5a980b3ac2a31fd94e112e8.png" , Farscape
@@ -326,7 +326,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2" tvg-id="608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bc810d86-52d6-4a20-858e-c6336f167d2b/lovestoriestv_Logo_Stack_White_Christinardx.png" , Love Stories TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-id="608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv-motorsports-logo.png" , MAVTV Motorsports Network
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-id="608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6843c3b-df90-45b6-a7d5-c166c8f57ca5/mavtv-motorsports-logo_color_WHITE.png" , MAVTV Motorsports Network
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-id="608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6fdc94e-6745-413a-9b22-3592b9f46441/mmc-logo.png" , MMC
@@ -367,6 +367,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614" tvg-id="608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1642abf1-1056-4a27-a7be-3e2d9fe3697e/MyBingeChannel_logo_LIGHTRDX.png" , My Binge Channel
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-650b5bb3f4b2d9579946a500" tvg-id="608049aefa2b8ae93c2c3a63-650b5bb3f4b2d9579946a500" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e2cd63de-74cb-47bb-90f4-2845e6446b47/Light_Logo__Mythical_24_7_1500x1000.png" , Mythical 24/7
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-650b5bb3f4b2d9579946a500.m3u8
@@ -412,6 +415,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-id="608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" , Pac-12 Insider
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c99e3b964c65b53de32f" tvg-id="608049aefa2b8ae93c2c3a63-6196c99e3b964c65b53de32f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acee0a4c-c114-4ef5-95a9-4972405b13db/partypoker_logo_light_2.png" , Party Poker TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c99e3b964c65b53de32f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22" tvg-id="608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/PTK_Spanish_logo_dark.png" , Party Tyme Karaoke
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22.m3u8
@@ -550,6 +556,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274" tvg-id="608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" , The Spa
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63c99b835feb7b9655cb196f" tvg-id="608049aefa2b8ae93c2c3a63-63c99b835feb7b9655cb196f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fed13ebb-8dd1-4b59-bbb3-4eb2c028d500/Wu_Tang_Spanish_Square_rdx_white.png" , The Wu Tang Collection Spanish
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63c99b835feb7b9655cb196f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee" tvg-id="608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a5115427-8193-4c12-9029-d1deec7d3e55/Times_NOWrdx_WHITE_TEXT.png" , Times Now Navbharat
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee.m3u8
