@@ -50,6 +50,15 @@ https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" tvg-chno="90" group-title="Películas" , Pluto TV Cine Familia
 https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5dd6ed41526c77000941411c" tvg-id="5dd6ed41526c77000941411c" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" tvg-chno="95" group-title="Felices Fiestas" , Pluto TV Cine Navidad
+https://i.mjh.nz/PlutoTV/5dd6ed41526c77000941411c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8a0e7a9ab0370008b177f2" tvg-id="5f8a0e7a9ab0370008b177f2" tvg-logo="https://images.pluto.tv/channels/5f8a0e7a9ab0370008b177f2/colorLogoPNG.png" tvg-chno="96" group-title="Felices Fiestas" , Luces Navideñas
+https://i.mjh.nz/PlutoTV/5f8a0e7a9ab0370008b177f2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8a0f421418bd0007e14548" tvg-id="5f8a0f421418bd0007e14548" tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" tvg-chno="97" group-title="Felices Fiestas" , Chimenea Navideña
+https://i.mjh.nz/PlutoTV/5f8a0f421418bd0007e14548-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-chno="100" group-title="Paramount+ Presenta" , Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
