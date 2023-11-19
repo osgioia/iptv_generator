@@ -338,9 +338,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430" tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" , Maverick Black Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-id="608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" , Mech+
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35" tvg-id="608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" , MegaNoticias
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35.m3u8
 
@@ -463,6 +460,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d9.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63" tvg-id="608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" , RevryNews
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-id="608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" , Robot Wars by Mech+
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664" tvg-id="608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" , Ryan and Friends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664.m3u8
