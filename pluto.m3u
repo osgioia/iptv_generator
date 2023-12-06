@@ -68,6 +68,12 @@ https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-64ff270f30ab3300084e259c" tvg-id="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" tvg-chno="127" group-title="Series" , Rookie Blue: Policías Novatos
+https://i.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64ff26233efb5100082eeb2e" tvg-id="64ff26233efb5100082eeb2e" tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" tvg-chno="128" group-title="Series" , Infierno Sobre Ruedas
+https://i.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-chno="140" group-title="Series" , Pluto TV Series
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
@@ -307,6 +313,9 @@ https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-chno="855" group-title="Deportes" , Lucha Libre AAA
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="Deportes" , PFL MMA
+https://i.mjh.nz/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-chno="929" group-title="Comedia" , Comedy Central South Park
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
