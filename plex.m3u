@@ -32,6 +32,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-id="608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" , Always Funny
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png" , Andromeda
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811" tvg-id="608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811" tvg-logo="https://provider-static.plex.tv/epg/cms/production/890f3b89-1ff3-4f40-8f26-fbb5633010e5/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" , Autopista al Cielo
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811.m3u8
 
@@ -245,7 +248,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d" tvg-id="608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" , Glewed TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" , GoUSA TV
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" , GoUSA TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-629141f6a0ed9c2b6ae63bb0" tvg-id="608049aefa2b8ae93c2c3a63-629141f6a0ed9c2b6ae63bb0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02499982-f91a-460f-9d22-3f2dd59018a2/Always_in_Season_Military_Logo_1500x1000.png" , Gravitas Adrenaline
@@ -361,6 +364,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649" tvg-id="608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png" , Mutant X
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614" tvg-id="608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1642abf1-1056-4a27-a7be-3e2d9fe3697e/MyBingeChannel_logo_LIGHTRDX.png" , My Binge Channel
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614.m3u8
