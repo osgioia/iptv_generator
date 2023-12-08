@@ -89,6 +89,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529" tvg-id="608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png" , Canela Telenovelas
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff" tvg-id="608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" , Cheaters en Español
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" , Choppertown
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
 
@@ -304,6 +307,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a" tvg-id="608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/785ee254-61da-47ed-a734-6f00be0444fb/Kidoodle.TV_Channel_Logo1500x1000rdx.png" , Kidoodle TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a" tvg-id="608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" , Kidz Bop TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0" tvg-id="608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51c4650f-7615-4bc5-8ac8-cd063d6c5a3e/Kin_Logo_White_-_George_Stewartrdx.png" , Kin
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0.m3u8
