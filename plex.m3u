@@ -98,6 +98,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" , Choppertown
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613" tvg-id="608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0ea216c-a6a6-44c5-90b7-0ab66b568e78/christmasclassics_logo_dark.png" , Christmas Classics
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-id="608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" , Cine Premium Plus
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
 
