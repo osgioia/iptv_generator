@@ -407,9 +407,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1" tvg-id="608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" , Ninja Kidz TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64b1e1217d4037206787f384" tvg-id="608049aefa2b8ae93c2c3a63-64b1e1217d4037206787f384" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png" , Nolly Africa HD
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64b1e1217d4037206787f384.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015" tvg-id="608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" , Nosey
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015.m3u8
 
@@ -529,9 +526,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656fbac9dbcce28c3a417419" tvg-id="608049aefa2b8ae93c2c3a63-656fbac9dbcce28c3a417419" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f84c7517-eb5c-4613-b37d-7f5dae5894d7/Snowboarder_Transparent_-_Geoff_Clark.png" , Snowboarder
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fbac9dbcce28c3a417419.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-id="608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" , Sonic TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca" tvg-id="608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" , SportsGrid
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
