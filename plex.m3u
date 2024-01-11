@@ -122,12 +122,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e" tvg-id="608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" , Clic
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-id="608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" , ClixTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63" tvg-id="608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c255cdee-fd08-4c27-9a52-8e6df187c44b/CoinDeskTV_logo_dark.png" , CoinDesk TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309" tvg-id="608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" , CombaTV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309.m3u8
 
@@ -356,7 +350,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/395b9c20-f7f4-47df-8746-bf23c284a295/Made_in_hollywood_logo.png" , Made In Hollywood
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-id="608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8597bf48-255c-4c9b-8f88-a3199b84e666/MagellanTV_Logoww.png" , MagellanTV NOW
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-id="608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a22fa7ef-a28f-42ab-a86b-cceb911332d9/MagellanTV_Logoww.png" , MagellanTV NOW
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b" tvg-id="608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/007599ee-1005-478f-8da1-e1bf0c9998c6/MasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png" , MasterChef Mexico
@@ -469,9 +463,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d6.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e" tvg-id="608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/702ff044-be45-42cf-8a96-9a527f35be0a/Powder_Dark_BG_-_Geoff_Clark.png" , Powder
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62b124bb32ebdc6c67a7eea1" tvg-id="608049aefa2b8ae93c2c3a63-62b124bb32ebdc6c67a7eea1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce23ad9d-7d30-4ea8-8d88-07f2c8997caa/prowrestlingtv_logo_dark_-_Jordan_Warkol.png" , Pro Wrestling TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62b124bb32ebdc6c67a7eea1.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc" tvg-id="608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" , PursuitUP
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc.m3u8
