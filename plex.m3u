@@ -368,6 +368,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35" tvg-id="608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" , MegaNoticias
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-id="608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , Milenio Television
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24" tvg-id="608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" , Misterios sin Resolver
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 
