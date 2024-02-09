@@ -356,6 +356,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/395b9c20-f7f4-47df-8746-bf23c284a295/Made_in_hollywood_logo.png" , Made In Hollywood
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4" tvg-id="608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32ed8d25-d253-4e6e-a842-4c8aff0d03d8/MIMTV_Logo_1500x1000_DarkBackgrounds.png" , Made It Myself TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-id="608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a22fa7ef-a28f-42ab-a86b-cceb911332d9/MagellanTV_Logoww.png" , MagellanTV NOW
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
 
