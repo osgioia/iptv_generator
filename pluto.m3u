@@ -206,6 +206,9 @@ https://r.mjh.nz/PlutoTV/656e465b9d5ac400083d2db9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" tvg-chno="503" group-title="Curiosidad" , Obsesión por los Autos
 https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-656e2536fbc15b00084ae29d" tvg-id="656e2536fbc15b00084ae29d" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" tvg-chno="504" group-title="Curiosidad" , Mi Coche Clásico
+https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" tvg-chno="509" group-title="Curiosidad" , Motorvision TV
 https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
 
@@ -274,6 +277,9 @@ https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63d2c140c111bc0008cb890b" tvg-id="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-chno="705" group-title="Noticias" , TeleFórmula
 https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Noticias" , Milenio Televisión
+https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Fútbol" , Chilevision Deportes
 https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
@@ -347,11 +353,17 @@ https://r.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #EXTINF:-1 channel-id="pluto-646cce4d1593940008a33f09" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" tvg-chno="1103" group-title="Entretenimiento" , Azteca Internacional
 https://r.mjh.nz/PlutoTV/646cce4d1593940008a33f09-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-652e91fd6208700008dcaf7b" tvg-id="652e91fd6208700008dcaf7b" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" tvg-chno="1118" group-title="Entretenimiento" , Canal 6 CdMX
+https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" tvg-chno="1154" group-title="Estilo de Vida" , Pluto TV Viajes
 https://r.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" tvg-chno="1179" group-title="Estilo de Vida" , Pluto TV Hogar
 https://r.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64fb1f6e6625510008c00848" tvg-id="64fb1f6e6625510008c00848" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png" tvg-chno="1181" group-title="Estilo de Vida" , Homeful
+https://r.mjh.nz/PlutoTV/64fb1f6e6625510008c00848-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" tvg-chno="1199" group-title="Estilo de Vida" , Pluto TV Cocina
 https://r.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
@@ -376,6 +388,9 @@ https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-chno="1260" group-title="Anime & Gaming" , Naruto Shippuden
 https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-chno="1261" group-title="Anime & Gaming" , Boruto: Naruto Next Generations
+https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-chno="1264" group-title="Anime & Gaming" , Death Note
 https://r.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
@@ -418,6 +433,9 @@ https://r.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" tvg-chno="1402" group-title="Kids" , Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-656e28a2954b020008ed133a" tvg-id="656e28a2954b020008ed133a" tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" tvg-chno="1403" group-title="Kids" , Dora, La Exploradora
+https://r.mjh.nz/PlutoTV/656e28a2954b020008ed133a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f9996533c9de3000759ccb5" tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" tvg-chno="1405" group-title="Kids" , Las Pistas de Blue
 https://r.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
