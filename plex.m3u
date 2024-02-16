@@ -563,6 +563,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda" tvg-id="608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" , TRACE Urban
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-id="608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" , Tastemade en Español
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82" tvg-id="608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" , The Boat Show
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82.m3u8
 
