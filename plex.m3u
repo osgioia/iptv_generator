@@ -89,6 +89,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-id="608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png" , CampusLore Sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062" tvg-id="608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9027051-ccd0-49ce-a246-5e4f89cdfcc8/Logotipo_C6_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , Canal 6 CDMX
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-id="608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" , Canela Clásicos
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
 
@@ -107,10 +110,10 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-id="608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" , Cine Premium Plus
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" , Cine Real
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" , Cine Real
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" , Cine Sureño
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" , Cine Sureño
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913fa15130002b284197.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" , Cine de Horror
@@ -227,7 +230,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-id="608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" , Fite 24/7
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" , Flash
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" , Flash
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284191.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75" tvg-id="608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" , Flashback 70s
@@ -314,7 +317,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018" tvg-id="608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" , Judge Nosey
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" , Juntos TV
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" , Juntos TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f" tvg-id="608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" , Just For Laughs Gags
@@ -506,7 +509,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37" tvg-id="608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" , SPEEDVISION
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" , Saber Mas
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" , Saber Mas
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6" tvg-id="608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1ddd349-0b81-4525-ba53-1912701467db/Saboreartv_1500x1000-_For_dark_backgrounds.png" , Saborear TV
@@ -620,7 +623,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" , Toon Goggles en Español
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" , Top Cine
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" , Top Cine
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-61d738b5a7b7c7f703418514" tvg-id="608049aefa2b8ae93c2c3a63-61d738b5a7b7c7f703418514" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77650263-e1b2-41d0-b8e3-6c877f518397/tfh.png" , Trailers From Hell
@@ -632,7 +635,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb965cb7e8e6a9bc3f370.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97" tvg-id="608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png" , True History
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tucine_logo_light.png" , Tu Cine
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" , Tu Cine
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607" tvg-id="608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" , USA TODAY
