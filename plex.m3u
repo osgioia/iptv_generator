@@ -440,9 +440,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-id="608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" , Pac-12 Insider
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22" tvg-id="608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/PTK_Spanish_logo_dark.png" , Party Tyme Karaoke
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021" tvg-id="608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e430cc92-6e22-469c-8666-7cabd46392d7/paa_logo_dark.png" , People are Awesome
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021.m3u8
 
@@ -692,8 +689,8 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-61e9af453508a50f84213dd6" tvg-id="608049aefa2b8ae93c2c3a63-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png" , i24NEWS Updates
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61e9af453508a50f84213dd6.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f17a1a283581000409bd875" tvg-id="608049aefa2b8ae93c2c3a63-5f17a1a283581000409bd875" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" , party tyme karaoke
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f17a1a283581000409bd875.m3u8
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7ac" tvg-id="608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" , party tyme karaoke
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7ac.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661" tvg-id="608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c628cbd-7afe-4c2c-b6c4-0e52c4ca3a87/pocketwatch-logo.png" , pocket.watch
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661.m3u8
