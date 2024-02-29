@@ -13,7 +13,7 @@ def agregar_info_canal():
     confirmacion = input("\n¿Está seguro de que desea agregar esta información? (s/n): ")
     if confirmacion.lower() == 's':
         with open("channel_info.txt", "a") as archivo:
-            archivo.write(f"{nombre_canal} | {genero} | {logo} | {url_canal}\n")
+            archivo.write(f"{nombre_canal} | {genero} | {logo} | \n{url_canal}\n")
         print("La información se ha agregado correctamente al archivo.")
     else:
         print("La información no se ha agregado al archivo.")
