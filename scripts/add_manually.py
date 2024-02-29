@@ -1,25 +1,25 @@
-def agregar_info_canal():
-    nombre_canal = input("Nombre del canal: ")
-    genero = input("Género: ")
+def add_new_channel():
+    name_channel = input("Nombre del canal: ")
+    genre = input("Género: ")
     logo = input("URL del logo del canal: ")
-    url_canal = input("URL del canal: ")
+    url_channel = input("URL del canal: ")
     
     print("\nConfirmar información:")
-    print(f"Nombre del canal: {nombre_canal}")
-    print(f"Género: {genero}")
+    print(f"Nombre del canal: {name_channel}")
+    print(f"Género: {genre}")
     print(f"URL del logo del canal: {logo}")
-    print(f"URL del canal: {url_canal}")
+    print(f"URL del canal: {url_channel}")
     
-    confirmacion = input("\n¿Está seguro de que desea agregar esta información? (s/n): ")
-    if confirmacion.lower() == 's':
-        with open("channel_info.txt", "a") as archivo:
-            archivo.write(f"{nombre_canal} | {genero} | {logo} | \n{url_canal}\n")
+    confirm = input("\n¿Está seguro de que desea agregar esta información? (s/n): ")
+    if confirm.lower() == 's':
+        with open("channel_info.txt", "a") as file:
+            file.write(f"{name_channel} | {genre} | {logo} | \n{url_channel}\n")
         print("La información se ha agregado correctamente al archivo.")
     else:
         print("La información no se ha agregado al archivo.")
 
 while True:
-    agregar_info_canal()
-    respuesta = input("\n¿Deseas agregar otro canal? (s/n): ")
-    if respuesta.lower() != 's':
+    add_new_channel()
+    response = input("\n¿Deseas agregar otro canal? (s/n): ")
+    if response.lower() != 's':
         break
