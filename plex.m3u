@@ -305,9 +305,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-id="608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" , Humor Mill
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873" tvg-id="608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5a1a23c-cc0e-4f54-9e46-ab9a9ef49165/ImpactWrestling_White_1500x1000.png" , IMPACT Wrestling
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62e7e3390f1a07e75150bd37" tvg-id="608049aefa2b8ae93c2c3a63-62e7e3390f1a07e75150bd37" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bd7d2cc4-3374-46bf-b031-fb8b3082ed06/INFAST_logo_dark_-_brittany_benton.png" , INFAST
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62e7e3390f1a07e75150bd37.m3u8
 
@@ -553,6 +550,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8" tvg-id="608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" , TG Junior
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873" tvg-id="608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/27e36afa-f885-4d90-9a7e-1568f45878c2/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" , TNA Wrestling Channel
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6329474265c8569187176338" tvg-id="608049aefa2b8ae93c2c3a63-6329474265c8569187176338" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" , TRACE Brazuca
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
