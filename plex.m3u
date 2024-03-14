@@ -143,6 +143,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f" tvg-id="608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" , CraftsyTV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224" tvg-id="608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" , Cricket Gold
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f" tvg-id="608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04cb0c34-f78d-4314-ba43-f2cb6e81136d/DPTV_Logo_BB_-_Mohit_Gattu.png" , Desi Play TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f.m3u8
 
@@ -178,9 +181,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299" tvg-id="608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" , Euronews
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae" tvg-id="608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/185391bf-f586-4a74-8c9e-db3705b82897/Logo_Euronews_stacked_REallyWHite_on_german_RGB-01rdx.png" , Euronews Deutsch
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d" tvg-id="608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png" , Euronews Español
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
@@ -388,9 +388,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63489e1390b96ef5e0eb3280.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f" tvg-id="608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" , More U
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6408c82eebb23ab878e8ddbb" tvg-id="608049aefa2b8ae93c2c3a63-6408c82eebb23ab878e8ddbb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0c73aed-c190-45ee-baea-65929b1207f4/motorsporttv_logo_blackbackround_Rainier.png" , Motorsport.tv
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6408c82eebb23ab878e8ddbb.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-603fb593a99efc002dbf90e4" tvg-id="608049aefa2b8ae93c2c3a63-603fb593a99efc002dbf90e4" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" , Motorvision TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-603fb593a99efc002dbf90e4.m3u8
