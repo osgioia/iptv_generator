@@ -2,12 +2,6 @@
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guía de canales
 https://r.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-65ce85b2332fec00081a70ad" tvg-id="65ce85b2332fec00081a70ad" tvg-logo="https://images.pluto.tv/channels/65ce85b2332fec00081a70ad/colorLogoPNG.png" tvg-chno="10" group-title="Evento especial" , Banco de Chile Stage
-https://r.mjh.nz/PlutoTV/65ce85b2332fec00081a70ad-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-65ce85ecec9fda00088bb3bd" tvg-id="65ce85ecec9fda00088bb3bd" tvg-logo="https://images.pluto.tv/channels/65ce85ecec9fda00088bb3bd/colorLogoPNG.png" tvg-chno="11" group-title="Evento especial" , Pluto TV Stage
-https://r.mjh.nz/PlutoTV/65ce85ecec9fda00088bb3bd-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18" group-title="Películas" , Pluto TV Cine Estelar
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 
