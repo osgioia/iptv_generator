@@ -359,6 +359,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-id="608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6843c3b-df90-45b6-a7d5-c166c8f57ca5/mavtv-motorsports-logo_color_WHITE.png" , MAVTV Motorsports Network
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d" tvg-id="608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7ef8a72-87e6-46fc-af6b-5496ce700268/1500x1000_MLB_logo_dark_-_Jodi_Berlatt.png" , MLB
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/395b9c20-f7f4-47df-8746-bf23c284a295/Made_in_hollywood_logo.png" , Made In Hollywood
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0.m3u8
 
