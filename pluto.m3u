@@ -89,17 +89,11 @@ https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-chno="203" group-title="Retro" , Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-chno="211" group-title="Retro" , Hechizada
-https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" , Los Tres Chiflados
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62e017e44823db000726cd9a" tvg-id="62e017e44823db000726cd9a" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" tvg-chno="261" group-title="Retro" , The Ed Sullivan Show
-https://r.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-chno="265" group-title="Retro" , Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
@@ -275,9 +269,6 @@ https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" tvg-chno="815" group-title="Fútbol" , DAZN Women's Football
 https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-chno="827" group-title="Deportes" , Pluto TV Deportes
-https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-6582f002a620e3000813b329" tvg-id="6582f002a620e3000813b329" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" tvg-chno="829" group-title="Deportes" , Azteca Deportes Network
 https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
@@ -328,9 +319,6 @@ https://r.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb907651f5d000085e4778" tvg-id="63eb907651f5d000085e4778" tvg-logo="https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png" tvg-chno="1029" group-title="Entretenimiento" , Best of The Drew Barrymore Show
 https://r.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" tvg-chno="1033" group-title="Entretenimiento" , Nosey Escándalos
-https://r.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63ceb6ff60bc8f00088dc625" tvg-id="63ceb6ff60bc8f00088dc625" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" tvg-chno="1036" group-title="Entretenimiento" , Teatrix
 https://r.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
