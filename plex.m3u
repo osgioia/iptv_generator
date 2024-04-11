@@ -221,6 +221,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877" tvg-id="608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" , Fight Network
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-id="608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68708f25-5fbe-4553-8458-614df346dec2/Plex_FilmRise_SeriesGratis_Color_Logo.png" , FilmRise Series Gratis
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb" tvg-id="608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" , Filmstream
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb.m3u8
 
@@ -388,6 +391,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63489e1390b96ef5e0eb3280" tvg-id="608049aefa2b8ae93c2c3a63-63489e1390b96ef5e0eb3280" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc714dc4-2563-4902-b9cc-442b8cf54fb5/MOCONOMY_logo_light_-_Toni_Newesil.png" , Moconomy - Economía y Finanzas
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63489e1390b96ef5e0eb3280.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495" tvg-id="608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d50335c9-42d6-4836-9179-034d8b6e9b75/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" , Monster Jam
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f" tvg-id="608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" , More U
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f.m3u8
