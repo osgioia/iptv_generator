@@ -293,7 +293,22 @@ https://r.mjh.nz/PlutoTV/64df7a9a44fe100009b6ac5a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="Deportes" , PFL MMA
 https://r.mjh.nz/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-chno="929" group-title="Comedia" , Comedy Central South Park
+#EXTINF:-1 channel-id="pluto-66032fc300f8280008e6dcd0" tvg-id="66032fc300f8280008e6dcd0" tvg-logo="https://images.pluto.tv/channels/66032fc300f8280008e6dcd0/colorLogoPNG.png" tvg-chno="920" group-title="South Park" , South Park: Apocalipsis
+https://r.mjh.nz/PlutoTV/66032fc300f8280008e6dcd0-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65df731cec9fda0008b7aa8d" tvg-id="65df731cec9fda0008b7aa8d" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" tvg-chno="922" group-title="South Park" , South Park: Colección Cartman
+https://r.mjh.nz/PlutoTV/65df731cec9fda0008b7aa8d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65df7272ec9fda0008b7a970" tvg-id="65df7272ec9fda0008b7a970" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" tvg-chno="923" group-title="South Park" , South Park: Colección Kenny
+https://r.mjh.nz/PlutoTV/65df7272ec9fda0008b7a970-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65df73520d4561000817c29b" tvg-id="65df73520d4561000817c29b" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" tvg-chno="924" group-title="South Park" , South Park: Colección Kyle
+https://r.mjh.nz/PlutoTV/65df73520d4561000817c29b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65df72db18036500081a8292" tvg-id="65df72db18036500081a8292" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" tvg-chno="925" group-title="South Park" , South Park: Colección Stan
+https://r.mjh.nz/PlutoTV/65df72db18036500081a8292-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-chno="929" group-title="South Park" , Comedy Central South Park
 https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-62d0895ebe7a970008785244" tvg-id="62d0895ebe7a970008785244" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" tvg-chno="934" group-title="Comedia" , Daria
