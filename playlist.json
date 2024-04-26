@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Vorterix",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://rr1---sn-p5qlsn7d.googlevideo.com/videoplayback?expire=1714113300&ei=tPYqZuagGNe7y_sPhs-tqA8&ip=20.55.14.152&id=o-AFRITLuc7E1LXRn7mCbuKVyI-xgHblOte6bKfyFP3Cnc&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C29&mn=sn-p5qlsn7d%2Csn-p5qddn7r&ms=au%2Crdu&mv=m&mvi=1&pl=16&initcwndbps=1046250&bui=AWRWj2T5f2Tzap6wF-52CYO-zgolIjkB4X5yrvf5J9oEOyVu61Kp2QDQ1LBSBm3o9sH3LbG8Og7beoVf&vprv=1&svpuc=1&mime=video%2Fmp4&ns=iINi_qdKEArIojh0FA0SqxUQ&cnr=14&ratebypass=yes&dur=93.065&lmt=1692366285026168&mt=1714091580&fvip=3&c=WEB&sefc=1&txp=5532434&n=mF5IK1Swg9dqUTXRyh&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAMHM-EpMs0hd--zUVIt6kjOHHcdswed7afmU1KyuR0dMAiBvKGdZFkiu8P33HUbae704NgxthGJtNceLzi9z1zoYjg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHWaYeowRQIhAL9m121Wnj-xdBVBcawmafQH_8wTCI9F8pNwq96Pv5V6AiBkG9xwnrhEqzlvsDwyR--dcyBUi2tw7kytCzcMC5It3Q%3D%3D",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+  },
+  {
+    "id": "",
+    "name": "America TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://rr3---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1714113301&ei=tfYqZuKpFITCy_sPs9qo0A8&ip=20.55.14.152&id=o-AAVOHvRoUyZo_QgbxQGi4C3VF6V_R8p6qfrFCMQXEew6&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C29&mn=sn-p5qddn7r%2Csn-p5qlsn7d&ms=au%2Crdu&mv=u&mvi=3&pl=16&bui=AWRWj2QAJYrxLqUcy8xES5BvPlfCa52I9x51Gh-Hp_93TVeKt4vTixL1v4jz588nlMpc_f_mYbn3ZEVu&vprv=1&svpuc=1&mime=video%2Fmp4&ns=RI3BIexUwFANWIfscsg1bCsQ&cnr=14&ratebypass=yes&dur=93.065&lmt=1692366285026168&mt=1714090859&fvip=1&c=WEB&sefc=1&txp=5532434&n=TIuwoRI3vhqLflpC7y&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIge71o8VC_jaEqD3Q-j-rDa2Km7H4PFNVGq7QFexFzMeICIQDsGL6L5OB57F7QUz3E28_z8GzPpeMOmMy5t8j5WUDhkg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHWaYeowRAIgUSUntBwvRw3Ozx-azOhBHBqInorpMgOfF2803gu9VfECIDrH4h-Ums825FRIRfwc_xhFkTIS29_r2Cxgx3Is82ny",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://rr1---sn-p5qlsn7d.googlevideo.com/videoplayback?expire=1714113302&ei=tvYqZuKYBdWx0_wPu8-J4AQ&ip=20.55.14.152&id=o-AIiiL1G_bs-jpkTqVYrBiI1hCiVIejgAOU0UFOEjnRv4&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C29&mn=sn-p5qlsn7d%2Csn-p5qddn7r&ms=au%2Crdu&mv=u&mvi=1&pl=16&bui=AWRWj2SAzVsRuiWaGVo7vBaMY8XvlzM-bwiMtOGQkz2NKFkRSNdWEwVBNom2jolONjXlt_U6RhteDQcM&vprv=1&svpuc=1&mime=video%2Fmp4&ns=e8EGY89gU1Q8FE43kABEMrwQ&cnr=14&ratebypass=yes&dur=93.065&lmt=1692366285026168&mt=1714090859&fvip=3&c=WEB&sefc=1&txp=5532434&n=qcFLyDIwuEAzTmVpEn&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAJM4GxqNGNugvzmRfe94QAiZKwNwoqbgmrAqlgsg8W6HAiEA01gtPX9PcgBbmSOp7UCIbagAmHbXVhyoM6776DB7T5s%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHWaYeowRAIgK7blQrJoE-7uypKbhW8Ns-goWhximephju-mG0nQK7sCIGTGSv7FichoyCXisJLrGqImJUojoIq6zl4jprpAVCGA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  }
+]
