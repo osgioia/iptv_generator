@@ -44,9 +44,6 @@ https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-chno="66" group-title="Películas" , Pluto TV  Nuestro Cine
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-646cd1211593940008a34690" tvg-id="646cd1211593940008a34690" tvg-logo="https://images.pluto.tv/channels/646cd1211593940008a34690/colorLogoPNG.png" tvg-chno="71" group-title="Películas" , Cinema
-https://r.mjh.nz/PlutoTV/646cd1211593940008a34690-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" tvg-chno="87" group-title="Películas" , Pluto TV Cine Clásico
 https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 
