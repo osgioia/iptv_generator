@@ -359,6 +359,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d" tvg-id="608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7ef8a72-87e6-46fc-af6b-5496ce700268/1500x1000_MLB_logo_dark_-_Jodi_Berlatt.png" , MLB
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-id="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6b80c25-1b63-4500-8374-058d5b6abeae/MovieSphere_Intl_Logo_Color_STACKRDX.png" , MOVIESPHERE
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-id="608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" , Made In Hollywood
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0.m3u8
 
