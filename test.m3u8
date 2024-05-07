@@ -2,5 +2,5 @@
 
 #EXTINF:-1 group-title="Variedades",ElTrece
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"09b4a463b029ebc28a288bed2da70a76", "kid":"5179017f49326d14af0a9ceec831aee6" } ], "type":"temporary" }
 https://edge-live01-mun.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
