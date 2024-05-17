@@ -590,7 +590,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369" tvg-id="608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369" tvg-logo="https://provider-static.plex.tv/epg/cms/production/44e94b30-41a7-4179-a484-a978da7eb0e7/TPC_PLEX_CHANNEL-LOGOS_COLOR.png" , The Pet Collective
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608083444363b700366942df" tvg-id="608049aefa2b8ae93c2c3a63-608083444363b700366942df" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/previewchannel_logo_dark_v2.png" , The Preview Channel
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608083444363b700366942df" tvg-id="608049aefa2b8ae93c2c3a63-608083444363b700366942df" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8a60f6ed-b0e5-47ea-bc85-6de1319ec295/previewchannel_logo_dark_v2.png" , The Preview Channel
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274" tvg-id="608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" , The Spa
