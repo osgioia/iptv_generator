@@ -4,3 +4,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://edge-live01-mun.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
+
+#EXTINF:-1 group-title="Noticias", TN
+https://www.youtube.com/todonoticias/live
