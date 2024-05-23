@@ -37,7 +37,7 @@ banner = r'''
 
 def grab(url):
     try:
-        if url.endswith('.m3u') or url.endswith('.m3u8') or ".ts" in url:
+        if url.endswith('.m3u') or url.endswith('.m3u8') or ".ts" in url or ".mpd" in url:
             return url
 
         session = streamlink.Streamlink()
@@ -84,18 +84,22 @@ with open(channel_info) as f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
-        if not line.startswith('http:') and len(line.split("|")) == 4:
+        if not line.startswith('http:') and len(line.split("|")) >= 4:
             line = line.split('|')
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
+            kid = line[4].strip() if len(line) > 4 else ""
+            key = line[5].strip() if len(line) > 5 else ""
             channel_data.append({
                 'type': 'info',
                 'ch_name': ch_name,
                 'grp_title': grp_title,
                 'tvg_logo': tvg_logo,
-                'tvg_id': tvg_id
+                'tvg_id': tvg_id,
+                'kid': kid,
+                'key': key
             })
         else:
             link = grab(line)
@@ -105,10 +109,9 @@ with open(channel_info) as f:
                     'url': link
                 })
 
-with open("playlist.m3u", "w") as f:
+with open("playlist.m3u8", "w") as f:
     f.write(banner)
     f.write(f'\n#EXTM3U')
-
 
     prev_item = None
 
@@ -116,11 +119,24 @@ with open("playlist.m3u", "w") as f:
         if item['type'] == 'info':
             prev_item = item
         if item['type'] == 'link' and item['url']:
-            f.write(f'\n#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}')
-            f.write('\n')
-            f.write(item['url'])
-            f.write('\n')
-
+            if item['url'].endswith('.mpd'):
+                f.write(f'\n#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}')
+                f.write('\n')
+                f.write(f'#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey')
+                f.write('\n')
+                f.write(f'#KODIPROP:inputstream.adaptive.license_key={prev_item["kid"]}:{prev_item["key"]}')
+                f.write('\n')
+                f.write(f'#KODIPROP:inputstream.adaptive.manifest_type=mpd')
+                f.write('\n')
+                f.write(f'#KODIPROP:mimetype=application/dash+xml')
+                f.write('\n')
+                f.write(item['url'])
+                f.write('\n')
+            else:
+                f.write(f'\n#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}')
+                f.write('\n')
+                f.write(item['url'])
+                f.write('\n')
 
 prev_item = None
 
@@ -128,7 +144,7 @@ for item in channel_data:
     if item['type'] == 'info':
         prev_item = item
     if item['type'] == 'link' and item['url']:
-        channel_data_json.append( {
+        channel_data_json.append({
             "id": prev_item["tvg_id"],
             "name": prev_item["ch_name"],
             "alt_names": [""],
@@ -151,4 +167,3 @@ for item in channel_data:
 with open("playlist.json", "w") as f:
     json_data = json.dumps(channel_data_json, indent=2)
     f.write(json_data)
-
