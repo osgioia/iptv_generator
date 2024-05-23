@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <kid> | <key>
 
 
 Vorterix | Argentina | https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg |
