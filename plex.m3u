@@ -569,9 +569,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88" tvg-id="608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" , The Bob Ross Channel
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-636442f69aabc8029c6d6b8d" tvg-id="608049aefa2b8ae93c2c3a63-636442f69aabc8029c6d6b8d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/880a210b-f794-4dcd-aefc-e30393666c42/TheBobRossChannel_enEspa_ol_outlinedWHITE_-_Suzanne_Yeerdx.png" , The Bob Ross Channel en Español
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636442f69aabc8029c6d6b8d.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125" tvg-id="608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" , The Carol Burnett Show
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125.m3u8
 
@@ -580,9 +577,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0641d3e8ffda004033b16e.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-640205c68ecb41f2d89d5814" tvg-id="608049aefa2b8ae93c2c3a63-640205c68ecb41f2d89d5814" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png" , The Ed Sullivan Show
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-640205c68ecb41f2d89d5814.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3" tvg-id="608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/451eef6dc017decca399d54abcf5340a.png" , The Film Detective
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369" tvg-id="608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369" tvg-logo="https://provider-static.plex.tv/epg/cms/production/44e94b30-41a7-4179-a484-a978da7eb0e7/TPC_PLEX_CHANNEL-LOGOS_COLOR.png" , The Pet Collective
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369.m3u8
