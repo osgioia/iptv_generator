@@ -17,7 +17,7 @@ Please note that the M3U links provided may lead to content sources. It is your 
 ## How to Use:
 
 1. Edit the file `channel_info.txt` following the specified format:
-FORMAT: 'channel name' | 'group name' | 'logo' | 'tvg-id'
+FORMAT: 'channel name' | 'group name' | 'logo' | 'tvg-id' | 'kid' | 'key' | 'license'  
 
 Channel 1 | Movies | https://example.com/Channel1.jpg | ch1
 https://www.youtube.com/@Channel1/live

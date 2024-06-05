@@ -84,7 +84,7 @@ with open(channel_info) as f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
-        if not line.startswith('http:') and len(line.split("|")) >= 4:
+        if not line.startswith('http:') and len(line.split("|")) >= 5:
             line = line.split('|')
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
@@ -92,6 +92,7 @@ with open(channel_info) as f:
             tvg_id = line[3].strip()
             kid = line[4].strip() if len(line) > 4 else ""
             key = line[5].strip() if len(line) > 5 else ""
+            license = line[6].strip() if len(line) > 6 else ""
             channel_data.append({
                 'type': 'info',
                 'ch_name': ch_name,
@@ -99,7 +100,8 @@ with open(channel_info) as f:
                 'tvg_logo': tvg_logo,
                 'tvg_id': tvg_id,
                 'kid': kid,
-                'key': key
+                'key': key,
+                'license': license
             })
         else:
             link = grab(line)
@@ -108,6 +110,14 @@ with open(channel_info) as f:
                     'type': 'link',
                     'url': link
                 })
+
+def process_license(license):
+    if license.startswith('{') and license.endswith('}'):
+        # Assume it's a JSON string
+        return f'{license}'
+    else:
+        # Assume it's a URL
+        return license
 
 with open("playlist.m3u8", "w") as f:
     f.write(banner)
@@ -124,7 +134,10 @@ with open("playlist.m3u8", "w") as f:
                 f.write('\n')
                 f.write(f'#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey')
                 f.write('\n')
-                f.write(f'#KODIPROP:inputstream.adaptive.license_key={prev_item["kid"]}:{prev_item["key"]}')
+                if prev_item["kid"] and prev_item["key"]:
+                    f.write(f'#KODIPROP:inputstream.adaptive.license_key={prev_item["kid"]}:{prev_item["key"]}')
+                elif prev_item["license"]:
+                    f.write(f'#KODIPROP:inputstream.adaptive.license_key={process_license(prev_item["license"])}')
                 f.write('\n')
                 f.write(f'#KODIPROP:inputstream.adaptive.manifest_type=mpd')
                 f.write('\n')
